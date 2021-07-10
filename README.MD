@@ -1,7 +1,7 @@
 # Purpose
 
 The repo creates examples of scripts and python notebooks to easily play with and manupulate 
-resources in gcs, bq usinh command line, python scripts and jupyter notebooks.
+resources in gcs, bq using command line, python scripts and jupyter notebooks.
 
 Will enable you to:
 * view datasets
